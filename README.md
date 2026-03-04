@@ -44,6 +44,7 @@ Because the dataset is structured and clean, preprocessing focuses on improving 
  
 ### (b) Learning Methods and Models
 We will compare several model types for both predictive performance and interpretability.
+
 **Supervised Models**
 - Logistic Regression (baseline)
 - Decision Trees
