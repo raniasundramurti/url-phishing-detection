@@ -52,6 +52,7 @@ We will compare several model types for both predictive performance and interpre
 **Unsupervised and Anomaly Detection Models**
 - k-Means clustering
 - Gaussian Mixture Models
+
 For the unsupervised approaches, clustering outputs will be converted into anomaly detection scores:
 • For k-Means: distance from cluster centroids
 • For GMM: negative log-likelihood under the learned probability distribution
