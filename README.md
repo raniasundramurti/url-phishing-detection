@@ -49,6 +49,7 @@ We will compare several model types for both predictive performance and interpre
 - Decision Trees
 - Random Forest and Gradient Boosting (primary tree-based models)
 - Support Vector Machines
+
 **Unsupervised and Anomaly Detection Models**
 - k-Means clustering
 - Gaussian Mixture Models
